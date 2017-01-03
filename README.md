@@ -4,4 +4,4 @@
 
 # PS : 请留意第三方库与分类!!!
 
-<img src="https://github.com/MakeZL/JunkFs/blob/master/DemoSketch/JunkFs.png" width="320"><br/>
+<img src="https://github.com/MakeZL/JunkFs/blob/master/JunkFs.png" width="320"><br/>
